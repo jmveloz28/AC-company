@@ -1,0 +1,10 @@
+
+#body{
+    background-color: blue;
+
+}
+
+.menu> li{
+    /*: position: relative, */
+    display: inline-block;
+}
